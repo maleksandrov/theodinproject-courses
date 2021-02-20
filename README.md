@@ -1,2 +1,2 @@
-# TheOdinpPoject Courses
+# TheOdinPoject Courses
 Training
