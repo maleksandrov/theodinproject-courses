@@ -1,2 +1,2 @@
-# theodinproject-courses
+# TheOdinpPoject Courses
 Training
